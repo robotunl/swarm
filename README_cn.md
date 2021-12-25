@@ -4,7 +4,7 @@
 ![preview](https://github.com/Robotunl/SwarmSMP/blob/main/demo.JPG)
 
 使用[Fallen_Breath](https://github.com/Fallen-Breath)的[MCDReforged](https://github.com/Fallen-Breath/MCDReforged)进行管理。  
-使用[Velocity](https://velocitypowered.com)作为反代服务器。
+使用[Velocity](https://velocitypowered.com)作为反代服务器。  
 使用[Paper](https://papermc.io)和[LoliServer](https://github.com/Loli-Server/LoliServer1.16)作为服务端核心。  
 目前成功在macOS，Linux，Windows上运行。
 

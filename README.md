@@ -1,7 +1,7 @@
 # SwarmSMP
 a Minecraft server run in 1.18.1
 
-![preview](https://github.com/Robotunl/SwarmSMP/blob/main/demo.JPG)
+![preview](https://s2.loli.net/2021/12/25/mjX1lCRSZ6qVyzx.jpg)
 
 use [MCDReforged](https://github.com/Fallen-Breath/MCDReforged) by [Fallen_Breath](https://github.com/Fallen-Breath).  
 use [Paper](https://papermc.io) as core.  

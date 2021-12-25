@@ -1,4 +1,6 @@
 # SwarmSMP
+__English | [中文](https://github.com/Robotunl/SwarmSMP/blob/main/README_cn.md)__  
+  
 a Minecraft server run in 1.18.1
 
 ![preview](https://s2.loli.net/2021/12/25/mjX1lCRSZ6qVyzx.jpg)

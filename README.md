@@ -1,0 +1,2 @@
+# SwarmSMP
+a Minecraft server

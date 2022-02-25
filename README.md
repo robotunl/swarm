@@ -1,6 +1,4 @@
 # SwarmSMP
-__English | [中文](https://github.com/Robotunl/SwarmSMP/blob/main/README_cn.md)__  
-  
 a Minecraft server run in 1.18.1
 
 ![preview](https://s2.loli.net/2021/12/25/mjX1lCRSZ6qVyzx.jpg)
@@ -10,7 +8,7 @@ use [Velocity](https://velocitypowered.com) as server proxy.
 use [Paper](https://papermc.io) and [LoliServer](https://github.com/Loli-Server/LoliServer1.16) as core.  
 basicly run in local(macOS), linux and Windows.  
 
-# How to login and play?
+## How to login and play?
   
 **now it has a [wiki](https://github.com/Robotunl/SwarmSMP/wiki/Install-and-Play).**  
   
@@ -18,7 +16,7 @@ basicly run in local(macOS), linux and Windows.
 Basicly using [PCL2](https://afdian.net/@LTCat) would be fine, if you have a Minecraft Java account, try to use [MultiMC](https://multimc.org), [HMCL](http://hmcl.huangyuhui.net) or an official Minecraft Launcher.
 2. To strangers  
 Sorry, but you're declined to visit.
-# When will it launch?
+## When will it launch?
 in winter vacation, 2022.  
 * Minecraft Manhunt
 * Default survival gamemode

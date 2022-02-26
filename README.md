@@ -21,3 +21,5 @@ in winter vacation, 2022.
 * Minecraft Manhunt
 * Default survival gamemode
 * Create modpack mini survival gamemode  
+
+site page is set on branch [gh-pages](https://github.com/Robotunl/SwarmSMP/tree/gh-pages)

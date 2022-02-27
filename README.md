@@ -22,4 +22,4 @@ in winter vacation, 2022.
 * Default survival gamemode
 * Create modpack mini survival gamemode  
 
-site page is set on branch [gh-pages](https://github.com/Robotunl/SwarmSMP/tree/gh-pages)
+[site](https://robotunl.github.io/swarm) page is set on branch [gh-pages](https://github.com/Robotunl/SwarmSMP/tree/gh-pages)

@@ -1,21 +1,47 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Hello World</title>
-    <url>/swarm/2022/02/26/hello-world/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+    <title>客户端下载&amp;游玩教程</title>
+    <url>/swarm/2022/01/27/01/</url>
+    <content><![CDATA[<p>主要有以下两种方法：<strong>直接使用整合包</strong> 和 <strong>自主配置</strong><br><strong>注：示范安装环境为Windows 10，Windows 7&#x2F;8&#x2F;11都与此类似</strong></p>
+<h2 id="直接使用整合包"><a href="#直接使用整合包" class="headerlink" title="直接使用整合包"></a>直接使用整合包</h2><p>顾名思义，<strong>下载微信群里的user.zip至本地</strong><br><img src="https://s2.loli.net/2022/01/17/NOc4AHn25gDGvWR.png" alt="1.png"><br>将.zip解压至一个<strong>新建的文件夹内</strong><br><img src="https://s2.loli.net/2022/01/17/H3MNODgmi8wWzrf.png" alt="1-1.png"><br>打开文件夹，首先双击java.exe,依照步骤安装<br><img src="https://s2.loli.net/2022/01/17/aIQSwZnkY1xTBlA.png" alt="2.png"><br><img src="https://s2.loli.net/2022/01/17/jkxQHnDOXmwMPai.png" alt="3.png"><br><img src="https://s2.loli.net/2022/01/17/xCQqzEHWMbA5aJL.png" alt="3-1.png"><br>安装完成后，双击PCL2.exe文件<br><img src="https://s2.loli.net/2022/01/17/4xO1lDIoCkNK2m7.png" alt="4.png"><br>输入一个游戏名**(必须是英文名，必须是英文名，必须是英文名)<strong>，点击启动游戏<br><img src="https://s2.loli.net/2022/01/17/xavAZEGCI4OnQdY.png" alt="5.png"><br><img src="https://s2.loli.net/2022/01/17/A83GpK9ihVbUJOX.png" alt="6.png"><br>进入游戏界面后，点击多人游戏，就可以看到服务器了（若没有，则需参考后文</strong>自主配置**步骤的最后两步）<br><img src="https://s2.loli.net/2022/01/17/7V86yESlTwDdcP9.png" alt="7.png"><br><img src="https://s2.loli.net/2022/01/17/DZQn6LFPfzqAa5K.png" alt="7-1.png"><br>多刷新几次，等待服务器检测成功后，便可以正常游玩了 :)</p>
+<hr>
+<h2 id="自主配置"><a href="#自主配置" class="headerlink" title="自主配置"></a>自主配置</h2><p>在Java <a href="https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html">JDK17 download</a>下载适于你的操作系统的应用安装包。<br><img src="https://s2.loli.net/2022/01/17/M1gKldoEkIPFS4i.png" alt="1.png"><br>如果你是windows 7&#x2F;10&#x2F;11，那么请安装‘Windows x64 Installer’<br><img src="https://s2.loli.net/2022/01/17/nFzmKqtweEg5rY9.png" alt="2.png"><br>双击.exe文件，依照步骤安装<br><img src="https://s2.loli.net/2022/01/17/6k24uMQ8f39GTKd.png" alt="2-1.png"><br><img src="https://s2.loli.net/2022/01/17/Vu8BfnyilTzE3bm.png" alt="2-2.png"><br><img src="https://s2.loli.net/2022/01/17/NtMPrwCJXsKpl4I.png" alt="2-3.png"><br>在<a href="https://afdian.net/p/0164034c016c11ebafcb52540025c377">PCL2</a>官网下载release.zip，解压后得到一个.exe文件<br><img src="https://s2.loli.net/2022/01/17/rPq4kMJnymYIoLa.png" alt="3.png"><br><img src="https://s2.loli.net/2022/01/17/FX4CfURwDlvsAPO.png" alt="3-1.png"><br><img src="https://s2.loli.net/2022/01/17/MV71zQPqY8m65ad.png" alt="3-2.png"><br><img src="https://s2.loli.net/2022/01/17/ihCKnLEHvJjzD4o.png" alt="3-3.png"><br><img src="https://s2.loli.net/2022/01/17/kCSP2Id18AabL6j.png" alt="3-4.png"><br>新建一个文件夹，将从<a href="https://afdian.net/p/0164034c016c11ebafcb52540025c377">PCL2</a>下载的.exe文件放入<br>双击.exe<br><img src="https://s2.loli.net/2022/01/17/SzT7DUvl6xjWdMG.png" alt="4-1.png"><br><img src="https://s2.loli.net/2022/01/17/npBzaflhoO1Zem2.png" alt="4-2.png"><br>可以看到弹出了PCL2启动器界面，并在.exe所在文件夹生成了对应游戏文件夹<br><img src="https://s2.loli.net/2022/01/17/B1qCrYHnje4ocl3.png" alt="4-3.png"><br>选择‘下载’，安装Minecraft 1.18.1<br><img src="https://s2.loli.net/2022/01/17/F4zvpH1rGd9colu.png" alt="5.png"><br>安装完成后，输入游戏名**(必须是英文名，必须是英文名，必须是英文名)**，点击启动游戏<br><img src="https://s2.loli.net/2022/01/17/2LBaJAIvlxMYwyC.png" alt="6.png"><br>进入游戏界面后，选择多人游戏，点击添加服务器，在服务器地址一栏填入我在群中发的‘服务器IP’<br><img src="https://s2.loli.net/2022/01/17/GJ5supAWmeTzwdK.png" alt="7.png"><br><img src="https://s2.loli.net/2022/01/17/4ujMJiLskQa8UOW.png" alt="7-1.png"><br><img src="https://s2.loli.net/2022/01/17/4os2BhpJeD8lUSc.png" alt="7-2.png"><br>点击完成，刷新之后，就可以看到服务器了<br><img src="https://s2.loli.net/2022/01/17/c5o3EWMGfz2aNwu.png" alt="8.png"><br>双击服务器，即可游玩 :)</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>SwarmSMP</title>
+    <url>/swarm/2022/02/27/00/</url>
+    <content><![CDATA[<p>海内存知己，天涯若比邻。</p>
+<p>这是一个简单的Minecraft服务器</p>
+<p>站点作者&#x2F;服务器运维: <a href="https://robotunl.github.io/">chadwick</a></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>地标收录</title>
+    <url>/swarm/2022/01/26/02/</url>
+    <content><![CDATA[<blockquote>
+<p>此贴用于记录<strong>broland</strong>中的地点所对应的坐标。</p>
+</blockquote>
+<span id="more"></span>
 
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+<h2 id="地下家园-259-60"><a href="#地下家园-259-60" class="headerlink" title="地下家园 (-259 ~ 60)"></a>地下家园 (-259 ~ 60)</h2><p><img src="https://s2.loli.net/2022/01/26/tZMES6UDojxrzs9.png" alt="home.png"><br><img src="https://s2.loli.net/2022/01/26/24MUCRFmiXgB8bP.png" alt="home.png"><br><img src="https://s2.loli.net/2022/01/26/C5caOtAMmnBhN84.png" alt="home.png">  </p>
+<h2 id="出生点-147-160"><a href="#出生点-147-160" class="headerlink" title="出生点 (-147 ~ -160)"></a>出生点 (-147 ~ -160)</h2><p><img src="https://s2.loli.net/2022/01/26/jeiY786fMOZJsQ5.png" alt="worldspawn.png">  </p>
+<h2 id="Sayya的家-405-82"><a href="#Sayya的家-405-82" class="headerlink" title="Sayya的家 (-405 ~ -82)"></a>Sayya的家 (-405 ~ -82)</h2><p><img src="https://s2.loli.net/2022/01/26/KJ7LiEVjbWDATeX.png" alt="sayya&#39;s home.png">  </p>
+<p>→ to be continued.</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>使用指令</title>
+    <url>/swarm/2022/01/17/03/</url>
+    <content><![CDATA[<p>本服务器为<strong>纯净服务器</strong>，故暂<strong>无如&#x2F;tpa, &#x2F;tpr的传送指令</strong>及其他插件指令。  </p>
+<span id="more"></span>
 
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
 
-<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+<h2 id="更换皮肤"><a href="#更换皮肤" class="headerlink" title="更换皮肤"></a>更换皮肤</h2><p>该部分待完善</p>
+<h2 id="使用-x2F-locate-指令"><a href="#使用-x2F-locate-指令" class="headerlink" title="使用&#x2F;locate 指令"></a>使用&#x2F;locate 指令</h2><p>&#x2F;locate 可以使你找到指定的世界里生成的地牢，遗迹等自然生成结构<br>&#x2F;locatebiome 可以使你找到指定的生物群系<br>详细使用请看官方wiki：<a href="https://minecraft.fandom.com/zh/wiki/%E5%91%BD%E4%BB%A4/locate">&#x2F;locate</a> <a href="https://minecraft.fandom.com/zh/wiki/%E5%91%BD%E4%BB%A4/locatebiome">&#x2F;locatebiome</a></p>
+<h2 id="各种奇葩姿势"><a href="#各种奇葩姿势" class="headerlink" title="各种奇葩姿势"></a>各种奇葩姿势</h2><p>默认右键可以坐在地毯&#x2F;台阶&#x2F;楼梯上</p>
+<p>此外<br>&#x2F;sit 可以原地坐下<br><img src="https://s2.loli.net/2022/01/30/mOCA2k7Br9VLbeF.png" alt="sit.png"><br>&#x2F;lay 可以原地躺下<br><img src="https://s2.loli.net/2022/01/30/jJ93KRZkyTspSrF.png" alt="lay.png"><br>&#x2F;bellyflop 可以原地趴下<br><img src="https://s2.loli.net/2022/01/30/OrJKpzdjo623etP.png" alt="bellyflop.png"><br>&#x2F;crawl 可以匍匐前进<br><img src="https://s2.loli.net/2022/01/30/8OZAjcVgfzpyGJY.png" alt="crawl.png"><br>&#x2F;spin 可以原地转圈（有点鬼畜…<br><img src="https://s2.loli.net/2022/01/30/3jivLWltgPndph5.png" alt="spin.png"></p>
 ]]></content>
   </entry>
 </search>

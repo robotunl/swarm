@@ -5,26 +5,9 @@
     <url>/swarm/2022/02/27/00/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/swarm/assets/css/APlayer.min.css"><script src="/swarm/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>海内存知己，天涯若比邻。</p>
 
-        <div id="aplayer-zRwFMeOE" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
-            <pre class="aplayer-lrc-content"></pre>
-        </div>
-        <script>
-          var ap = new APlayer({
-            element: document.getElementById("aplayer-zRwFMeOE"),
-            narrow: false,
-            autoplay: false,
-            showlrc: false,
-            music: {
-              title: "Comfort Chain",
-              author: "instupendo",
-              url: "http://music.163.com/song/media/outer/url?id=480426232.mp3",
-              pic: "",
-              lrc: ""
-            }
-          });
-          window.aplayers || (window.aplayers = []);
-          window.aplayers.push(ap);
-        </script>
+			<script>
+				console.error("Error: [hexo-tag-aplayer] Meting support is disabled, cannot resolve the meting tags properly.");
+			</script>
 
 <p>这是一个简单的Minecraft服务器</p>
 <p>站点作者&#x2F;服务器运维: <a href="https://robotunl.github.io/">chadwick</a></p>
@@ -40,19 +23,6 @@
 ]]></content>
   </entry>
   <entry>
-    <title>使用指令</title>
-    <url>/swarm/2022/01/17/03/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/swarm/assets/css/APlayer.min.css"><script src="/swarm/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>本服务器为<strong>纯净服务器</strong>，故暂<strong>无如&#x2F;tpa, &#x2F;tpr的传送指令</strong>及其他插件指令。  </p>
-<span id="more"></span>
-
-
-<h2 id="更换皮肤"><a href="#更换皮肤" class="headerlink" title="更换皮肤"></a>更换皮肤</h2><p>该部分待完善</p>
-<h2 id="使用-x2F-locate-指令"><a href="#使用-x2F-locate-指令" class="headerlink" title="使用&#x2F;locate 指令"></a>使用&#x2F;locate 指令</h2><p>&#x2F;locate 可以使你找到指定的世界里生成的地牢，遗迹等自然生成结构<br>&#x2F;locatebiome 可以使你找到指定的生物群系<br>详细使用请看官方wiki：<a href="https://minecraft.fandom.com/zh/wiki/%E5%91%BD%E4%BB%A4/locate">&#x2F;locate</a> <a href="https://minecraft.fandom.com/zh/wiki/%E5%91%BD%E4%BB%A4/locatebiome">&#x2F;locatebiome</a></p>
-<h2 id="各种奇葩姿势"><a href="#各种奇葩姿势" class="headerlink" title="各种奇葩姿势"></a>各种奇葩姿势</h2><p>默认右键可以坐在地毯&#x2F;台阶&#x2F;楼梯上</p>
-<p>此外<br>&#x2F;sit 可以原地坐下<br><img src="https://s2.loli.net/2022/01/30/mOCA2k7Br9VLbeF.png" alt="sit.png"><br>&#x2F;lay 可以原地躺下<br><img src="https://s2.loli.net/2022/01/30/jJ93KRZkyTspSrF.png" alt="lay.png"><br>&#x2F;bellyflop 可以原地趴下<br><img src="https://s2.loli.net/2022/01/30/OrJKpzdjo623etP.png" alt="bellyflop.png"><br>&#x2F;crawl 可以匍匐前进<br><img src="https://s2.loli.net/2022/01/30/8OZAjcVgfzpyGJY.png" alt="crawl.png"><br>&#x2F;spin 可以原地转圈（有点鬼畜…<br><img src="https://s2.loli.net/2022/01/30/3jivLWltgPndph5.png" alt="spin.png"></p>
-]]></content>
-  </entry>
-  <entry>
     <title>地标收录</title>
     <url>/swarm/2022/01/26/02/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/swarm/assets/css/APlayer.min.css"><script src="/swarm/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><blockquote>
@@ -64,6 +34,19 @@
 <h2 id="出生点-147-160"><a href="#出生点-147-160" class="headerlink" title="出生点 (-147 ~ -160)"></a>出生点 (-147 ~ -160)</h2><p><img src="https://s2.loli.net/2022/01/26/jeiY786fMOZJsQ5.png" alt="worldspawn.png">  </p>
 <h2 id="Sayya的家-405-82"><a href="#Sayya的家-405-82" class="headerlink" title="Sayya的家 (-405 ~ -82)"></a>Sayya的家 (-405 ~ -82)</h2><p><img src="https://s2.loli.net/2022/01/26/KJ7LiEVjbWDATeX.png" alt="sayya&#39;s home.png">  </p>
 <p>→ to be continued.</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>使用指令</title>
+    <url>/swarm/2022/01/17/03/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/swarm/assets/css/APlayer.min.css"><script src="/swarm/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>本服务器为<strong>纯净服务器</strong>，故暂<strong>无如&#x2F;tpa, &#x2F;tpr的传送指令</strong>及其他插件指令。  </p>
+<span id="more"></span>
+
+
+<h2 id="更换皮肤"><a href="#更换皮肤" class="headerlink" title="更换皮肤"></a>更换皮肤</h2><p>该部分待完善</p>
+<h2 id="使用-x2F-locate-指令"><a href="#使用-x2F-locate-指令" class="headerlink" title="使用&#x2F;locate 指令"></a>使用&#x2F;locate 指令</h2><p>&#x2F;locate 可以使你找到指定的世界里生成的地牢，遗迹等自然生成结构<br>&#x2F;locatebiome 可以使你找到指定的生物群系<br>详细使用请看官方wiki：<a href="https://minecraft.fandom.com/zh/wiki/%E5%91%BD%E4%BB%A4/locate">&#x2F;locate</a> <a href="https://minecraft.fandom.com/zh/wiki/%E5%91%BD%E4%BB%A4/locatebiome">&#x2F;locatebiome</a></p>
+<h2 id="各种奇葩姿势"><a href="#各种奇葩姿势" class="headerlink" title="各种奇葩姿势"></a>各种奇葩姿势</h2><p>默认右键可以坐在地毯&#x2F;台阶&#x2F;楼梯上</p>
+<p>此外<br>&#x2F;sit 可以原地坐下<br><img src="https://s2.loli.net/2022/01/30/mOCA2k7Br9VLbeF.png" alt="sit.png"><br>&#x2F;lay 可以原地躺下<br><img src="https://s2.loli.net/2022/01/30/jJ93KRZkyTspSrF.png" alt="lay.png"><br>&#x2F;bellyflop 可以原地趴下<br><img src="https://s2.loli.net/2022/01/30/OrJKpzdjo623etP.png" alt="bellyflop.png"><br>&#x2F;crawl 可以匍匐前进<br><img src="https://s2.loli.net/2022/01/30/8OZAjcVgfzpyGJY.png" alt="crawl.png"><br>&#x2F;spin 可以原地转圈（有点鬼畜…<br><img src="https://s2.loli.net/2022/01/30/3jivLWltgPndph5.png" alt="spin.png"></p>
 ]]></content>
   </entry>
 </search>

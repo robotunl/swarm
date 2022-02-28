@@ -9,8 +9,8 @@ use [Paper](https://papermc.io) and [LoliServer](https://github.com/Loli-Server/
 basicly run in local(macOS), linux and Windows.  
 
 ## How to login and play?
-  
-**now it has a [wiki](https://github.com/Robotunl/SwarmSMP/wiki/Install-and-Play).**  
+
+**see details on official [site](https://robotunl.github.io/swarm)**  
   
 1. To my friends  
 Basicly using [PCL2](https://afdian.net/@LTCat) would be fine, if you have a Minecraft Java account, try to use [MultiMC](https://multimc.org), [HMCL](http://hmcl.huangyuhui.net) or an official Minecraft Launcher.
@@ -21,5 +21,3 @@ in winter vacation, 2022.
 * Minecraft Manhunt
 * Default survival gamemode
 * Create modpack mini survival gamemode  
-
-[site](https://robotunl.github.io/swarm) page is set on branch [gh-pages](https://github.com/Robotunl/SwarmSMP/tree/gh-pages)

@@ -2,16 +2,16 @@
 <search>
   <entry>
     <title>SwarmSMP</title>
-    <url>/swarm/2022/02/27/00/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/swarm/assets/css/APlayer.min.css"><script src="/swarm/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>海内存知己，天涯若比邻。</p>
+    <url>/2022/02/27/00/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>海内存知己，天涯若比邻。</p>
 <p>这是一个简单的Minecraft服务器</p>
 <p>站点作者&#x2F;服务器运维: <a href="https://robotunl.github.io/">chadwick</a></p>
 ]]></content>
   </entry>
   <entry>
     <title>客户端下载&amp;游玩教程</title>
-    <url>/swarm/2022/01/27/01/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/swarm/assets/css/APlayer.min.css"><script src="/swarm/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>主要有以下两种方法：<strong>直接使用整合包</strong> 和 <strong>自主配置</strong><br><strong>注：示范安装环境为Windows 10，Windows 7&#x2F;8&#x2F;11都与此类似</strong></p>
+    <url>/2022/01/27/01/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>主要有以下两种方法：<strong>直接使用整合包</strong> 和 <strong>自主配置</strong><br><strong>注：示范安装环境为Windows 10，Windows 7&#x2F;8&#x2F;11都与此类似</strong></p>
 <h2 id="直接使用整合包"><a href="#直接使用整合包" class="headerlink" title="直接使用整合包"></a>直接使用整合包</h2><p>顾名思义，<strong>下载微信群里的user.zip至本地</strong><br><img src="https://s2.loli.net/2022/01/17/NOc4AHn25gDGvWR.png" alt="1.png"><br>将.zip解压至一个<strong>新建的文件夹内</strong><br><img src="https://s2.loli.net/2022/01/17/H3MNODgmi8wWzrf.png" alt="1-1.png"><br>打开文件夹，首先双击java.exe,依照步骤安装<br><img src="https://s2.loli.net/2022/01/17/aIQSwZnkY1xTBlA.png" alt="2.png"><br><img src="https://s2.loli.net/2022/01/17/jkxQHnDOXmwMPai.png" alt="3.png"><br><img src="https://s2.loli.net/2022/01/17/xCQqzEHWMbA5aJL.png" alt="3-1.png"><br>安装完成后，双击PCL2.exe文件<br><img src="https://s2.loli.net/2022/01/17/4xO1lDIoCkNK2m7.png" alt="4.png"><br>输入一个游戏名**(必须是英文名，必须是英文名，必须是英文名)<strong>，点击启动游戏<br><img src="https://s2.loli.net/2022/01/17/xavAZEGCI4OnQdY.png" alt="5.png"><br><img src="https://s2.loli.net/2022/01/17/A83GpK9ihVbUJOX.png" alt="6.png"><br>进入游戏界面后，点击多人游戏，就可以看到服务器了（若没有，则需参考后文</strong>自主配置**步骤的最后两步）<br><img src="https://s2.loli.net/2022/01/17/7V86yESlTwDdcP9.png" alt="7.png"><br><img src="https://s2.loli.net/2022/01/17/DZQn6LFPfzqAa5K.png" alt="7-1.png"><br>多刷新几次，等待服务器检测成功后，便可以正常游玩了 :)</p>
 <hr>
 <h2 id="自主配置"><a href="#自主配置" class="headerlink" title="自主配置"></a>自主配置</h2><p>在Java <a href="https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html">JDK17 download</a>下载适于你的操作系统的应用安装包。<br><img src="https://s2.loli.net/2022/01/17/M1gKldoEkIPFS4i.png" alt="1.png"><br>如果你是windows 7&#x2F;10&#x2F;11，那么请安装‘Windows x64 Installer’<br><img src="https://s2.loli.net/2022/01/17/nFzmKqtweEg5rY9.png" alt="2.png"><br>双击.exe文件，依照步骤安装<br><img src="https://s2.loli.net/2022/01/17/6k24uMQ8f39GTKd.png" alt="2-1.png"><br><img src="https://s2.loli.net/2022/01/17/Vu8BfnyilTzE3bm.png" alt="2-2.png"><br><img src="https://s2.loli.net/2022/01/17/NtMPrwCJXsKpl4I.png" alt="2-3.png"><br>在<a href="https://afdian.net/p/0164034c016c11ebafcb52540025c377">PCL2</a>官网下载release.zip，解压后得到一个.exe文件<br><img src="https://s2.loli.net/2022/01/17/rPq4kMJnymYIoLa.png" alt="3.png"><br><img src="https://s2.loli.net/2022/01/17/FX4CfURwDlvsAPO.png" alt="3-1.png"><br><img src="https://s2.loli.net/2022/01/17/MV71zQPqY8m65ad.png" alt="3-2.png"><br><img src="https://s2.loli.net/2022/01/17/ihCKnLEHvJjzD4o.png" alt="3-3.png"><br><img src="https://s2.loli.net/2022/01/17/kCSP2Id18AabL6j.png" alt="3-4.png"><br>新建一个文件夹，将从<a href="https://afdian.net/p/0164034c016c11ebafcb52540025c377">PCL2</a>下载的.exe文件放入<br>双击.exe<br><img src="https://s2.loli.net/2022/01/17/SzT7DUvl6xjWdMG.png" alt="4-1.png"><br><img src="https://s2.loli.net/2022/01/17/npBzaflhoO1Zem2.png" alt="4-2.png"><br>可以看到弹出了PCL2启动器界面，并在.exe所在文件夹生成了对应游戏文件夹<br><img src="https://s2.loli.net/2022/01/17/B1qCrYHnje4ocl3.png" alt="4-3.png"><br>选择‘下载’，安装Minecraft 1.18.1<br><img src="https://s2.loli.net/2022/01/17/F4zvpH1rGd9colu.png" alt="5.png"><br>安装完成后，输入游戏名**(必须是英文名，必须是英文名，必须是英文名)**，点击启动游戏<br><img src="https://s2.loli.net/2022/01/17/2LBaJAIvlxMYwyC.png" alt="6.png"><br>进入游戏界面后，选择多人游戏，点击添加服务器，在服务器地址一栏填入我在群中发的‘服务器IP’<br><img src="https://s2.loli.net/2022/01/17/GJ5supAWmeTzwdK.png" alt="7.png"><br><img src="https://s2.loli.net/2022/01/17/4ujMJiLskQa8UOW.png" alt="7-1.png"><br><img src="https://s2.loli.net/2022/01/17/4os2BhpJeD8lUSc.png" alt="7-2.png"><br>点击完成，刷新之后，就可以看到服务器了<br><img src="https://s2.loli.net/2022/01/17/c5o3EWMGfz2aNwu.png" alt="8.png"><br>双击服务器，即可游玩 :)</p>
@@ -19,8 +19,8 @@
   </entry>
   <entry>
     <title>地标收录</title>
-    <url>/swarm/2022/01/26/02/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/swarm/assets/css/APlayer.min.css"><script src="/swarm/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><blockquote>
+    <url>/2022/01/26/02/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><blockquote>
 <p>此贴用于记录<strong>broland</strong>中的地点所对应的坐标。</p>
 </blockquote>
 <span id="more"></span>
@@ -33,8 +33,8 @@
   </entry>
   <entry>
     <title>使用指令</title>
-    <url>/swarm/2022/01/17/03/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/swarm/assets/css/APlayer.min.css"><script src="/swarm/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>本服务器为<strong>纯净服务器</strong>，故暂<strong>无如&#x2F;tpa, &#x2F;tpr的传送指令</strong>及其他插件指令。  </p>
+    <url>/2022/01/17/03/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>本服务器为<strong>纯净服务器</strong>，故暂<strong>无如&#x2F;tpa, &#x2F;tpr的传送指令</strong>及其他插件指令。  </p>
 <span id="more"></span>
 
 

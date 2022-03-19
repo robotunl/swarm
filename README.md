@@ -6,7 +6,7 @@ a Minecraft server run in 1.18.1
 use [MCDReforged](https://github.com/Fallen-Breath/MCDReforged) by [Fallen_Breath](https://github.com/Fallen-Breath).  
 use [Velocity](https://velocitypowered.com) as server proxy.  
 use [Paper](https://papermc.io) and [LoliServer](https://github.com/Loli-Server/LoliServer1.16) as core.  
-basicly run in local(macOS), linux and Windows.  
+basically run in local(macOS), linux and Windows.  
 
 ## How to login and play?
 
@@ -17,7 +17,7 @@ Basicly using [PCL2](https://afdian.net/@LTCat) would be fine, if you have a Min
 2. To strangers  
 Sorry, but you're declined to visit.
 ## When will it launch?
-in winter vacation, 2022.  
+on winter vacation, 2022.  
 * Minecraft Manhunt
 * Default survival gamemode
 * Create modpack mini survival gamemode  

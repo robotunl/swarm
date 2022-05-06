@@ -5,7 +5,7 @@ a Minecraft server run in 1.18.1
 
 use [MCDReforged](https://github.com/Fallen-Breath/MCDReforged) by [Fallen_Breath](https://github.com/Fallen-Breath).  
 use [Velocity](https://velocitypowered.com) as server proxy.  
-use [Paper](https://papermc.io) and [LoliServer](https://github.com/Loli-Server/LoliServer1.16) as core.  
+use [Paper](https://papermc.io) and [CatServer](https://github.com/Luohuayu/CatServer/tree/1.16.5) as core.  
 basically run in local(macOS), linux and Windows.  
 
 ## How to login and play?

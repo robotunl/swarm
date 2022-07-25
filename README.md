@@ -13,9 +13,9 @@ basically run in local(macOS), linux and Windows.
 
 ## How to login and play?
   
-1. To my friends  
+* To my friends  
 Basically using [PCL2](https://afdian.net/@LTCat) would be fine, if you have a Minecraft Java account, try to use [MultiMC](https://multimc.org), [HMCL](http://hmcl.huangyuhui.net) or an official Minecraft Launcher.
-2. To strangers  
+* To strangers  
 Sorry, but you're declined to visit.
 ## When will it launch?  
   

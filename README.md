@@ -1,10 +1,10 @@
-# SwarmSMP
+# SwarmSMP III
 
 This is a personal minecraft server. 
   
 
-![](https://img.shields.io/badge/Minecraft-1.19-blue.svg)
-![](https://img.shields.io/badge/Paper-1.19-blue.svg)  
+![](https://img.shields.io/badge/Minecraft-1.19.3-blue.svg)
+![](https://img.shields.io/badge/Paper-1.19.3-blue.svg)  
   
 use [MCDReforged](https://github.com/Fallen-Breath/MCDReforged) by [Fallen_Breath](https://github.com/Fallen-Breath).  
 use [Velocity](https://velocitypowered.com) as server proxy.  

@@ -1,4 +1,4 @@
-# SwarmSMP/Florish
+# SwarmSMP
 
 ![](https://img.shields.io/badge/Minecraft-1.19.3-blue.svg)
 ![](https://img.shields.io/badge/Paper-1.19.3-blue.svg)  

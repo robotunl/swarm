@@ -1,28 +1,28 @@
 # SwarmSMP III
 
-This is a personal minecraft server. 
-  
-
 ![](https://img.shields.io/badge/Minecraft-1.19.3-blue.svg)
 ![](https://img.shields.io/badge/Paper-1.19.3-blue.svg)  
   
 use [MCDReforged](https://github.com/Fallen-Breath/MCDReforged) by [Fallen_Breath](https://github.com/Fallen-Breath).  
-use [Velocity](https://velocitypowered.com) as server proxy.  
-use [Paper](https://papermc.io) and [CatServer](https://github.com/Luohuayu/CatServer/tree/1.16.5) as core.  
+use [Paper](https://papermc.io) as core.  
 basically run in local(macOS), linux and Windows.  
 
-## How to login and play?
+## Plugin list
   
-* To my friends  
-Basically using [PCL2](https://afdian.net/@LTCat) would be fine, if you have a Minecraft Java account, try to use [MultiMC](https://multimc.org), [HMCL](http://hmcl.huangyuhui.net) or an official Minecraft Launcher.
-* To strangers  
-Sorry, but you're declined to visit.
-## When will it launch?  
-  
-**Launched already!**  
-  
-on winter vacation, 2022.  
-* Minecraft Manhunt
-* Default survival gamemode
-* Create modpack mini survival gamemode  
+### MCDR plugins  
+* [Crash restart](https://github.com/MCDReforged/PluginCatalogue/blob/catalogue/plugins/crash_restart/readme.md)
+* [StartStopHelperR](https://github.com/MCDReforged/PluginCatalogue/blob/catalogue/plugins/start_stop_helper_r/readme.md)
+* [Quick Backup Multi](https://github.com/MCDReforged/PluginCatalogue/blob/catalogue/plugins/quick_backup_multi/readme.md)
+* [Timed QBM](https://github.com/MCDReforged/PluginCatalogue/blob/catalogue/plugins/timed_quick_backup_multi/readme.md)
+### Spigot/Bukkit plugins
+* Chunky
+* CoreProtect
+* Groupmanager
+* SkinsRestorer
+* CommandWhitelist
+## Launch time
+
+* Season I 2021.9.4 - 2021.11.20
+* Season II 2022.1.17 - 2022.12.19
+* Seanson III 2022.12.19 - ?
 

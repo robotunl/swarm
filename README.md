@@ -22,7 +22,7 @@ basically run in local(macOS), linux and Windows.
 * CommandWhitelist
 ## Launch time
 
-* Season I 2021.9.4 - 2021.11.20
-* Season II 2022.1.17 - 2022.12.19
+* Season I 2021.9.4 - 2021.11.20 70d
+* Season II 2022.1.17 - 2022.12.19 336d
 * Seanson III 2022.12.19 - ?
 

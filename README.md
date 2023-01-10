@@ -24,5 +24,5 @@ basically run in local(macOS), linux and Windows.
 
 * Season I 2021.9.4 - 2021.11.20 70d
 * Season II 2022.1.17 - 2022.12.19 336d
-* Seanson III 2022.12.19 - ?
-
+* Season III 2022.12.19 - 2023.1.10 22d (have no alternative)
+* Season IV ?

@@ -4,7 +4,7 @@
 ![](https://img.shields.io/badge/Paper-1.19.3-blue.svg)  
   
 use [MCDReforged](https://github.com/Fallen-Breath/MCDReforged) by [Fallen_Breath](https://github.com/Fallen-Breath).  
-use [Paper](https://papermc.io) as core.  
+use [Purpur](https://purpurmc.org) as core.  
 basically run in local(macOS), linux and Windows.  
 
 ## Plugin list
@@ -25,3 +25,4 @@ basically run in local(macOS), linux and Windows.
 * Season I 2021.9.4 - 2021.11.20 70d
 * Season II 2022.1.17 - 2022.3.20 62d
 * Season III 2022.12.19 - 2023.1.25 37d
+* Season IV 2023.7.10

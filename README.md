@@ -1,11 +1,18 @@
 # SwarmSMP
 
-![](https://img.shields.io/badge/Minecraft-1.19.3-blue.svg)
-![](https://img.shields.io/badge/Paper-1.19.3-blue.svg)  
+a minecraft server formula.
+
+![](https://img.shields.io/badge/Minecraft-1.20.1-blue.svg)
+![](https://img.shields.io/badge/Purpur-1.20.1-blue.svg)  
   
 use [MCDReforged](https://github.com/Fallen-Breath/MCDReforged) by [Fallen_Breath](https://github.com/Fallen-Breath).  
 use [Purpur](https://purpurmc.org) as core.  
-basically run in local(macOS), linux and Windows.  
+basically run in Cloud Services(CentOS 7.9 2C 4G).
+
+## Server list
+* ucloud, Shanghai for [Velocity](https://papermc.io/software/velocity) proxy server
+* tencentcloud, Beijing for Survival server
+* huaweicloud, Shanghai for demo server
 
 ## Plugin list
   
@@ -20,6 +27,8 @@ basically run in local(macOS), linux and Windows.
 * Groupmanager
 * SkinsRestorer
 * CommandWhitelist
+* [SystemChat](https://gitlab.com/TauCu/systemchat/-/releases)
+* [HelpCommand](https://www.spigotmc.org/resources/help-command-1-18-1-20-1.102926/)
 ## Launch time
 
 * Season I 2021.9.4 - 2021.11.20 70d

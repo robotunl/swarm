@@ -35,4 +35,5 @@ basically run in Cloud Services(CentOS 7.9 2C 4G).
 * Season II 2022.1.17 - 2022.3.20 62d
 * Season III 2022.12.19 - 2023.1.25 37d
 * Season IV 2023.7.10 - 2023.10.22 104d
-* Season V 2023.12.17 - ∞ (out of service)
+* Season V 2023.12.17 - 2024.3.11 85d
+* Season VI 2024.7.12 - ?

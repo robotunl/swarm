@@ -2,17 +2,15 @@
 
 a minecraft server formula.
 
-![](https://img.shields.io/badge/Minecraft-1.20.1-blue.svg)
-![](https://img.shields.io/badge/Purpur-1.20.1-blue.svg)  
+![](https://img.shields.io/badge/Minecraft-1.21-blue.svg)
+![](https://img.shields.io/badge/Purpur-1.21-blue.svg)  
   
 use [MCDReforged](https://github.com/Fallen-Breath/MCDReforged) by [Fallen_Breath](https://github.com/Fallen-Breath).  
 use [Purpur](https://purpurmc.org) as core.  
 basically run in Cloud Services(CentOS 7.9 2C 4G).
 
 ## Server list
-* ucloud, Shanghai for [Velocity](https://papermc.io/software/velocity) proxy server
 * tencentcloud, Beijing for Survival server
-* huaweicloud, Shanghai for demo server
 
 ## Plugin list
   
